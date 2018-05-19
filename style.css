@@ -23,6 +23,7 @@ Article
         color: #ebebeb;
         background: #777;
         text-align: center;
+        padding: 10px;
       }
 
 h1, p
@@ -34,17 +35,28 @@ h1, p
 section
       {
         width: 495px;
-        background: #ebebeb
+        background: #ebebeb;
+        float: left;
+        padding: 10px;
+        overflow: hidden;
+        margin-bottom: 10px;
+        margin-left: 10px;
       }
 
 aside {
-      float: right;
       background: #ebebeb;
+      height:223px;
+      width: 425px;
+      float: left;
+      overflow: hidden;
+      margin-bottom: 10px;
+      margin-left: 5px;
       }
 
 footer
       {
       clear: both;
+      overflow: hidden;
       }
 
 /* Your CSS should have styles for each of the following elements:
