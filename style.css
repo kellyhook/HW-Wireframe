@@ -37,7 +37,7 @@ section
         width: 495px;
         background: #ebebeb;
         float: left;
-        padding: 10px;
+        padding: 8px;
         overflow: hidden;
         margin-bottom: 10px;
         margin-left: 10px;
@@ -46,11 +46,11 @@ section
 aside {
       background: #ebebeb;
       height:223px;
-      width: 425px;
+      width: 420px;
       float: left;
       overflow: hidden;
       margin-bottom: 10px;
-      margin-left: 5px;
+      margin-left: 10px;
       }
 
 footer
